@@ -1,0 +1,9 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "Want a free ebook?"
+content: |
+  Subscribe to Zara's newsletter and receive a free ebook.
+button: 
+  label: "Yes, please!"
+  link: "#"
+image: "images/reader_magnet.png"

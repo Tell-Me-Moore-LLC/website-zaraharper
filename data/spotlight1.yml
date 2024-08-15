@@ -1,0 +1,16 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Meet the Author"
+content: |
+  Zara Harper weaves tales of <strong>Stealth Wealth Sweethearts</strong>, where billionaires find love and purpose in the heart of small-town America. Her stories blend the allure of quiet luxury with the warmth of tight-knit communities, proving that true riches lie in genuine connections.
+  <br><br>
+  Zara's writing journey began with childhood journals inspired by "The Amazing Days of Abby Hayes" and blossomed through fanfiction, where she honed her talent for remixing beloved tropes. Now, she brings this passion to her debut novel.
+  <br><br>
+  When she's not at her writing desk, you'll find Zara in Georgia, surrounded by a growing army of males - her husband, young son, and Beni the cat, with another little boy on the way. She balances her writing life with family time, piano playing, and the occasional crochet project.
+  <br><br>
+  Connect with Zara on Instagram or sign up for her newsletter to stay updated on her latest works and get a peek behind the scenes of her writing life. Who knows? You might even catch a glimpse of her next story - a lakeside romance where an unsuspecting local architect finds herself working alongside a stealth billionaire. (Shhh, don't tell her he owns the place!)
+button:
+  #label: "Learn More"
+  #link: "#"
+image: "images/author.png"
